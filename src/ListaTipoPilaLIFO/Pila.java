@@ -8,7 +8,7 @@ public class Pila {
     int tamaño = 0;
     String lista = "";
 
-    public Pila(int valor) {
+    public Pila() {
         ultimoValorIngresado = null;
         tamaño = 0;
 
